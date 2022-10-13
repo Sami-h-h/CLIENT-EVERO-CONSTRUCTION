@@ -40,3 +40,7 @@ npm run preview
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+
+git remote add origin https://github.com/mashoun/EVERO-CONSTRUCTION.git
+git branch -M main
+git push -u origin main
