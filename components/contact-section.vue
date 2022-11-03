@@ -18,7 +18,7 @@
             <div class="bg-light shadow-sm w-100 p-3">
               <strong class="sans">Address : </strong>
               <span
-              >Main Office: Office 301, Palazzo Venezia Bldg, Majan, Dubailand
+              >Office 301, Palazzo Venezia Bldg, Majan, Dubailand
               District, Dubai, United Arab Emirates
             </span>
             </div>

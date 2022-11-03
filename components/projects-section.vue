@@ -115,7 +115,7 @@ export default {
         },
         {
           tag: "HORECA",
-          title: "Prostylzes",
+          title: "Prostyles",
           baseURL: "",
           images: [
             `/Projects/Prostylzes/CHEZ2721.jpg`,

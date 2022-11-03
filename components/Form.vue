@@ -32,7 +32,7 @@
       />
       <div class="_form-content d-flex shadow p-2 justify-content-center align-items-center gap-3 flex-column">
 
-        <h3 class=" fs-3 sans p-2">Get in touch !</h3>
+        <h3 class=" fs-3 sans p-2">Get in touch.</h3>
         <div class="w-100 shadow-sm p-2 _form_element _x34659072 _full_width">
           <!-- <label for="firstname" class="_form-label">First Name*</label> -->
           <div class="_field-wrapper">

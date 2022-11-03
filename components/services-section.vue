@@ -44,10 +44,10 @@
             </div>
             <h3 class="sans">Turn-key Solutions</h3>
             <p>
-              EVERO Construction provides an end-to-end solution for residential
-              & Commercial high-end projects including Engineering design, ID
-              design, Authorities approvals, Project execution, interior
-              fit-out, Joinery design and execution, MEP, Projects Management,
+              EVERO Construction provides an end-to-end solution for Residential
+              & Commercial high-end projects including Engineering Design, ID
+              Design, Authorities approvals, Project execution, Interior
+              fit-out, Joinery design and Execution, MEP, Projects Management,
               Value Engineering, Key handover and DLP.
             </p>
             <!-- <a href="service-details.html" class="readmore stretched-link"
@@ -97,10 +97,10 @@
             <h3 class="sans">Mechanical Electrical Plumbing</h3>
             <p>
               Mechanical, Electrical, Plumbing, and Fire system are the
-              lifelines of any building, at EVERO Construction, we provide
-              sustainable MEP designs, cost estimation, construction
-              administration, documentation, Professional installation services
-              and building maintenance.
+              lifelines of any building. <br> At EVERO Construction, we provide
+              Sustainable MEP designs, Cost Estimation, Construction
+              Administration, Documentation, Professional Installation Services
+              and Building Maintenance.
             </p>
             <!-- <a href="service-details.html" class="readmore stretched-link"
               >Learn more <i class="bi bi-arrow-right"></i
@@ -124,9 +124,8 @@
             <p>
               Our extensive market knowledge and strong relationships with local
               and international suppliers to procure supplies, materials,
-              equipment, and services, giving our clients the best combination
-              of value, quality, availability, and service. We take care of the
-              details with the knowledge that we carefully coordinate and
+              equipment, and services, gives our clients the best combination
+              of value, quality, availability, and service. We carefully coordinate and
               monitor our approved suppliers’ and subcontractors’ performance to
               ensure compliance with EVERO’s standards, policies, and
               expectations.

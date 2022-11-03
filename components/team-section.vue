@@ -41,7 +41,7 @@
           </p>
         </div>
       </div>
-      <img src="/assets/Team/Organogram-01.svg" alt="Organogram" class="img-fluid">
+      <img src="/origano.png" alt="Organogram" class="img-fluid">
     </div>
   </section>
 </template>
